@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  width: 100%;
+}
+
+.home {
+  max-width: 1250px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.home h1 {
+  text-align: center;
+}
+
+.home p {
+  text-align: center;
+}
+
+.home__content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1%;
+}
+.home__detail {
+  width: 24%;
+}
