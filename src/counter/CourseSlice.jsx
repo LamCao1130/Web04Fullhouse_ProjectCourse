@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 
-export const urlApi = "https://wrfx9j-8080.csb.app/lessons";
+export const urlApi = "https://njftr6-8096.csb.app/lessons";
 
 export const fetchAllCourse = createAsyncThunk(
   "course/getAllCourses",
