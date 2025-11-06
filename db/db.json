@@ -1,0 +1,1313 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Lesson 1: Greetings & Introductions",
+      "content": "Basic greetings, introducing yourself and asking simple personal questions in everyday conversations.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Hello",
+          "pronunciation": "həˈloʊ",
+          "nghia": "Xin chào"
+        },
+        {
+          "stt": 2,
+          "chu": "Hi",
+          "pronunciation": "haɪ",
+          "nghia": "Chào (thân mật)"
+        },
+        {
+          "stt": 3,
+          "chu": "Good morning",
+          "pronunciation": "ɡʊd ˈmɔːrnɪŋ",
+          "nghia": "Chào buổi sáng"
+        },
+        {
+          "stt": 4,
+          "chu": "Good afternoon",
+          "pronunciation": "ɡʊd ˌæftərˈnuːn",
+          "nghia": "Chào buổi chiều"
+        },
+        {
+          "stt": 5,
+          "chu": "Good evening",
+          "pronunciation": "ɡʊd ˈiːvnɪŋ",
+          "nghia": "Chào buổi tối"
+        },
+        {
+          "stt": 6,
+          "chu": "Good night",
+          "pronunciation": "ɡʊd naɪt",
+          "nghia": "Chúc ngủ ngon"
+        },
+        {
+          "stt": 7,
+          "chu": "Goodbye",
+          "pronunciation": "ɡʊdˈbaɪ",
+          "nghia": "Tạm biệt"
+        },
+        {
+          "stt": 8,
+          "chu": "See you later",
+          "pronunciation": "siː juː ˈleɪtər",
+          "nghia": "Hẹn gặp lại"
+        },
+        {
+          "stt": 9,
+          "chu": "Nice to meet you",
+          "pronunciation": "naɪs tuː miːt juː",
+          "nghia": "Rất vui được gặp bạn"
+        },
+        {
+          "stt": 10,
+          "chu": "How are you?",
+          "pronunciation": "haʊ ɑːr juː",
+          "nghia": "Bạn khỏe không?"
+        },
+        {
+          "stt": 11,
+          "chu": "I'm fine, thank you",
+          "pronunciation": "aɪm faɪn θæŋk juː",
+          "nghia": "Tôi khỏe, cảm ơn"
+        },
+        {
+          "stt": 12,
+          "chu": "What's your name?",
+          "pronunciation": "wɒts jɔːr neɪm",
+          "nghia": "Tên bạn là gì?"
+        },
+        {
+          "stt": 13,
+          "chu": "My name is...",
+          "pronunciation": "maɪ neɪm ɪz",
+          "nghia": "Tên tôi là..."
+        },
+        {
+          "stt": 14,
+          "chu": "Where are you from?",
+          "pronunciation": "weər ɑːr juː frɒm",
+          "nghia": "Bạn đến từ đâu?"
+        },
+        {
+          "stt": 15,
+          "chu": "I am from...",
+          "pronunciation": "aɪ æm frɒm",
+          "nghia": "Tôi đến từ..."
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👨 Mike",
+          "english": "Excuse me, what's your name?",
+          "pronunciation": "ɪksˈkjuːz miː, wɒts jɔːr neɪm?",
+          "vietnamese": "Xin hỏi, tên bạn là gì?"
+        },
+        {
+          "speaker": "👨 John",
+          "english": "My name is John. Nice to meet you.",
+          "pronunciation": "maɪ neɪm ɪz dʒɒn. naɪs tuː miːt juː.",
+          "vietnamese": "Tên tôi là John. Rất vui được gặp bạn."
+        },
+        {
+          "speaker": "👨 Mike",
+          "english": "Where are you from, John?",
+          "pronunciation": "weər ɑːr juː frɒm, dʒɒn?",
+          "vietnamese": "Bạn đến từ đâu, John?"
+        },
+        {
+          "speaker": "👨 John",
+          "english": "I'm from England. How about you?",
+          "pronunciation": "aɪm frɒm ˈɪŋɡlənd. haʊ əˈbaʊt juː?",
+          "vietnamese": "Tôi đến từ Anh. Còn bạn?"
+        },
+        {
+          "speaker": "👨 Mike",
+          "english": "I'm from the United States. Nice to meet you.",
+          "pronunciation": "aɪm frɒm ðə juːˈnaɪtɪd steɪts. naɪs tuː miːt juː.",
+          "vietnamese": "Tôi đến từ Mỹ. Rất vui được gặp bạn."
+        }
+      ],
+      "grammar": "<h2>Grammar: Greetings & Introductions</h2>\n<h3>1. Verb 'to be' (am/is/are)</h3>\n<p><strong>Form:</strong> I am, You/We/They are, He/She/It is.</p>\n<ul>\n  <li>I am a student.</li>\n  <li>She is from England.</li>\n</ul>\n<h3>2. Basic Questions with 'What' & 'Where'</h3>\n<ul>\n  <li>What is your name?</li>\n  <li>Where are you from?</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "Hello, my name is Anna.",
+          "pronunciation": "həˈloʊ, maɪ neɪm ɪz ˈænə",
+          "nghia": "Xin chào, tên tôi là Anna."
+        },
+        {
+          "stt": 2,
+          "chu": "Hi, I'm Tom. Nice to meet you.",
+          "pronunciation": "haɪ, aɪm tɒm. naɪs tuː miːt juː",
+          "nghia": "Chào, tôi là Tom. Rất vui được gặp bạn."
+        },
+        {
+          "stt": 3,
+          "chu": "Where are you from?",
+          "pronunciation": "weər ɑːr juː frɒm",
+          "nghia": "Bạn đến từ đâu?"
+        },
+        {
+          "stt": 4,
+          "chu": "I'm from Canada.",
+          "pronunciation": "aɪm frɒm ˈkænədə",
+          "nghia": "Tôi đến từ Canada."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "Excuse me what's your name ?",
+          "explanation": "Câu dùng để hỏi tên (lịch sự)."
+        },
+        { "correct": "My name is Anna", "explanation": "Giới thiệu tên." },
+        {
+          "correct": "Where are you from ?",
+          "explanation": "Hỏi về nơi xuất xứ."
+        },
+        {
+          "correct": "I am from Vietnam",
+          "explanation": "Trả lời nơi xuất xứ."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lesson 2: Numbers, Time & Dates",
+      "content": "Learn numbers, telling time, days of the week, months, and talking about schedules.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Number",
+          "pronunciation": "ˈnʌmbər",
+          "nghia": "Số"
+        },
+        {
+          "stt": 2,
+          "chu": "Time",
+          "pronunciation": "taɪm",
+          "nghia": "Thời gian"
+        },
+        { "stt": 3, "chu": "Day", "pronunciation": "deɪ", "nghia": "Ngày" },
+        { "stt": 4, "chu": "Week", "pronunciation": "wiːk", "nghia": "Tuần" },
+        { "stt": 5, "chu": "Month", "pronunciation": "mʌnθ", "nghia": "Tháng" },
+        { "stt": 6, "chu": "Year", "pronunciation": "jɪər", "nghia": "Năm" },
+        {
+          "stt": 7,
+          "chu": "Today",
+          "pronunciation": "təˈdeɪ",
+          "nghia": "Hôm nay"
+        },
+        {
+          "stt": 8,
+          "chu": "Tomorrow",
+          "pronunciation": "təˈmɒrəʊ",
+          "nghia": "Ngày mai"
+        },
+        {
+          "stt": 9,
+          "chu": "Yesterday",
+          "pronunciation": "ˈjestərdeɪ",
+          "nghia": "Hôm qua"
+        },
+        { "stt": 10, "chu": "Now", "pronunciation": "naʊ", "nghia": "Bây giờ" },
+        {
+          "stt": 11,
+          "chu": "O'clock",
+          "pronunciation": "əˈklɒk",
+          "nghia": "Giờ (chẵn)"
+        },
+        {
+          "stt": 12,
+          "chu": "Minute",
+          "pronunciation": "ˈmɪnɪt",
+          "nghia": "Phút"
+        },
+        { "stt": 13, "chu": "Hour", "pronunciation": "ˈaʊər", "nghia": "Giờ" },
+        {
+          "stt": 14,
+          "chu": "Morning",
+          "pronunciation": "ˈmɔːrnɪŋ",
+          "nghia": "Buổi sáng"
+        },
+        {
+          "stt": 15,
+          "chu": "Afternoon",
+          "pronunciation": "ˌæftərˈnuːn",
+          "nghia": "Buổi chiều"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👩 Sarah",
+          "english": "What time is it now?",
+          "pronunciation": "wɒt taɪm ɪz ɪt naʊ?",
+          "vietnamese": "Bây giờ là mấy giờ?"
+        },
+        {
+          "speaker": "👨 David",
+          "english": "It's ten thirty.",
+          "pronunciation": "ɪts ten ˈθɜːrti.",
+          "vietnamese": "Bây giờ là mười giờ ba mươi."
+        },
+        {
+          "speaker": "👩 Sarah",
+          "english": "What day is it today?",
+          "pronunciation": "wɒt deɪ ɪz ɪt təˈdeɪ?",
+          "vietnamese": "Hôm nay là thứ mấy?"
+        },
+        {
+          "speaker": "👨 David",
+          "english": "It's Monday. Do you have plans for tomorrow?",
+          "pronunciation": "ɪts ˈmʌndeɪ. duː juː hæv plænz fɔːr təˈmɒrəʊ?",
+          "vietnamese": "Hôm nay là thứ Hai. Bạn có kế hoạch gì cho ngày mai không?"
+        },
+        {
+          "speaker": "👩 Sarah",
+          "english": "Yes, I have a meeting at 2:00 PM.",
+          "pronunciation": "jes, aɪ hæv ə ˈmiːtɪŋ æt tuː paɪ em.",
+          "vietnamese": "Có, tôi có một cuộc họp lúc 2 giờ chiều."
+        }
+      ],
+      "grammar": "<h2>Grammar: Numbers, Time & Dates</h2>\n<h3>1. Cardinal Numbers (1-100)</h3>\n<p>1-one, 2-two, ... 20-twenty, 21-twenty-one, ... 100-one hundred.</p>\n<h3>2. Telling Time</h3>\n<ul>\n  <li>It's + giờ + phút: It's three ten (3:10).</li>\n  <li>It's + phút + past/to + giờ: It's ten past three (3:10), It's ten to four (3:50).</li>\n</ul>\n<h3>3. Prepositions of Time</h3>\n<ul>\n  <li>AT + giờ: at 7:00, at noon.</li>\n  <li>ON + ngày: on Monday, on July 5th.</li>\n  <li>IN + tháng/năm: in May, in 2023.</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "It's five o'clock.",
+          "pronunciation": "ɪts faɪv əˈklɒk",
+          "nghia": "Bây giờ là năm giờ."
+        },
+        {
+          "stt": 2,
+          "chu": "Today is Wednesday.",
+          "pronunciation": "təˈdeɪ ɪz ˈwenzdeɪ",
+          "nghia": "Hôm nay là thứ Tư."
+        },
+        {
+          "stt": 3,
+          "chu": "My birthday is in October.",
+          "pronunciation": "maɪ ˈbɜːrθdeɪ ɪz ɪn ɒkˈtəʊbər",
+          "nghia": "Sinh nhật của tôi là vào tháng Mười."
+        },
+        {
+          "stt": 4,
+          "chu": "The meeting is at nine fifteen.",
+          "pronunciation": "ðə ˈmiːtɪŋ ɪz æt naɪn fɪfˈtiːn",
+          "nghia": "Cuộc họp lúc chín giờ mười lăm."
+        }
+      ],
+      "sapxepcau": [
+        { "correct": "What time is it ?", "explanation": "Hỏi giờ." },
+        {
+          "correct": "It is Monday today",
+          "explanation": "Nói về thứ trong tuần."
+        },
+        {
+          "correct": "The meeting is at three o'clock",
+          "explanation": "Nói về thời gian của sự kiện."
+        },
+        { "correct": "My birthday is in May", "explanation": "Nói về tháng." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lesson 3: Family & Relationships",
+      "content": "Vocabulary for family members, describing relationships, and talking about your family.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Family",
+          "pronunciation": "ˈfæməli",
+          "nghia": "Gia đình"
+        },
+        {
+          "stt": 2,
+          "chu": "Father / Dad",
+          "pronunciation": "ˈfɑːðər / dæd",
+          "nghia": "Bố"
+        },
+        {
+          "stt": 3,
+          "chu": "Mother / Mom",
+          "pronunciation": "ˈmʌðər / mɒm",
+          "nghia": "Mẹ"
+        },
+        {
+          "stt": 4,
+          "chu": "Parents",
+          "pronunciation": "ˈpeərənts",
+          "nghia": "Bố mẹ"
+        },
+        {
+          "stt": 5,
+          "chu": "Brother",
+          "pronunciation": "ˈbrʌðər",
+          "nghia": "Anh/em trai"
+        },
+        {
+          "stt": 6,
+          "chu": "Sister",
+          "pronunciation": "ˈsɪstər",
+          "nghia": "Chị/em gái"
+        },
+        { "stt": 7, "chu": "Son", "pronunciation": "sʌn", "nghia": "Con trai" },
+        {
+          "stt": 8,
+          "chu": "Daughter",
+          "pronunciation": "ˈdɔːtər",
+          "nghia": "Con gái"
+        },
+        {
+          "stt": 9,
+          "chu": "Husband",
+          "pronunciation": "ˈhʌzbənd",
+          "nghia": "Chồng"
+        },
+        { "stt": 10, "chu": "Wife", "pronunciation": "waɪf", "nghia": "Vợ" },
+        {
+          "stt": 11,
+          "chu": "Children",
+          "pronunciation": "ˈtʃɪldrən",
+          "nghia": "Những đứa trẻ"
+        },
+        {
+          "stt": 12,
+          "chu": "Grandfather",
+          "pronunciation": "ˈɡrænfɑːðər",
+          "nghia": "Ông"
+        },
+        {
+          "stt": 13,
+          "chu": "Grandmother",
+          "pronunciation": "ˈɡrænmʌðər",
+          "nghia": "Bà"
+        },
+        {
+          "stt": 14,
+          "chu": "Uncle",
+          "pronunciation": "ˈʌŋkl",
+          "nghia": "Chú/Bác"
+        },
+        { "stt": 15, "chu": "Aunt", "pronunciation": "ænt", "nghia": "Cô/Dì" }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👨 Tom",
+          "english": "Do you have a big family?",
+          "pronunciation": "duː juː hæv ə bɪɡ ˈfæməli?",
+          "vietnamese": "Bạn có một gia đình lớn không?"
+        },
+        {
+          "speaker": "👩 Lisa",
+          "english": "Yes, I have two brothers and one sister.",
+          "pronunciation": "jes, aɪ hæv tuː ˈbrʌðərz ənd wʌn ˈsɪstər.",
+          "vietnamese": "Vâng, tôi có hai anh trai và một chị gái."
+        },
+        {
+          "speaker": "👨 Tom",
+          "english": "What about your parents?",
+          "pronunciation": "wɒt əˈbaʊt jɔːr ˈpeərənts?",
+          "vietnamese": "Còn bố mẹ bạn thì sao?"
+        },
+        {
+          "speaker": "👩 Lisa",
+          "english": "They live in the countryside. My father is a teacher and my mother is a nurse.",
+          "pronunciation": "ðeɪ lɪv ɪn ðə ˈkʌntrisaɪd. maɪ ˈfɑːðər ɪz ə ˈtiːtʃər ənd maɪ ˈmʌðər ɪz ə nɜːrs.",
+          "vietnamese": "Họ sống ở nông thôn. Bố tôi là giáo viên và mẹ tôi là y tá."
+        },
+        {
+          "speaker": "👨 Tom",
+          "english": "That's nice. I have a small family - just my wife and me.",
+          "pronunciation": "ðæts naɪs. aɪ hæv ə smɔːl ˈfæməli - dʒʌst maɪ waɪf ənd miː.",
+          "vietnamese": "Thật tuyệt. Tôi có một gia đình nhỏ - chỉ có vợ tôi và tôi."
+        }
+      ],
+      "grammar": "<h2>Grammar: Family & Possessive 's</h2>\n<h3>1. Possessive Adjectives</h3>\n<p>my, your, his, her, its, our, their.</p>\n<ul>\n  <li>This is my brother.</li>\n  <li>Her name is Lisa.</li>\n</ul>\n<h3>2. Possessive 's</h3>\n<p>Dùng để chỉ sự sở hữu.</p>\n<ul>\n  <li>Tom's sister (Chị gái của Tom).</li>\n  <li>My father's car (Xe ô tô của bố tôi).</li>\n</ul>\n<h3>3. Questions about Family</h3>\n<ul>\n  <li>Do you have any brothers or sisters?</li>\n  <li>How many people are in your family?</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "This is my family.",
+          "pronunciation": "ðɪs ɪz maɪ ˈfæməli",
+          "nghia": "Đây là gia đình tôi."
+        },
+        {
+          "stt": 2,
+          "chu": "I have one brother and two sisters.",
+          "pronunciation": "aɪ hæv wʌn ˈbrʌðər ənd tuː ˈsɪstərz",
+          "nghia": "Tôi có một anh trai và hai chị gái."
+        },
+        {
+          "stt": 3,
+          "chu": "My parents are doctors.",
+          "pronunciation": "maɪ ˈpeərənts ɑːr ˈdɒktərz",
+          "nghia": "Bố mẹ tôi là bác sĩ."
+        },
+        {
+          "stt": 4,
+          "chu": "Her husband is an engineer.",
+          "pronunciation": "hər ˈhʌzbənd ɪz ən ˌenʤɪˈnɪər",
+          "nghia": "Chồng cô ấy là kỹ sư."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "This is my mother",
+          "explanation": "Giới thiệu thành viên gia đình."
+        },
+        {
+          "correct": "I have two brothers",
+          "explanation": "Nói về số lượng anh/chị/em."
+        },
+        {
+          "correct": "My father is a teacher",
+          "explanation": "Nói về nghề nghiệp của thành viên gia đình."
+        },
+        {
+          "correct": "What is your sister's name ?",
+          "explanation": "Hỏi tên của chị/em gái."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lesson 4: Daily Routines",
+      "content": "Learn to describe your daily activities, from morning to night, using simple present tense.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Wake up",
+          "pronunciation": "weɪk ʌp",
+          "nghia": "Thức dậy"
+        },
+        {
+          "stt": 2,
+          "chu": "Get up",
+          "pronunciation": "ɡet ʌp",
+          "nghia": "Thức dậy (ra khỏi giường)"
+        },
+        {
+          "stt": 3,
+          "chu": "Brush teeth",
+          "pronunciation": "brʌʃ tiːθ",
+          "nghia": "Đánh răng"
+        },
+        {
+          "stt": 4,
+          "chu": "Take a shower",
+          "pronunciation": "teɪk ə ˈʃaʊər",
+          "nghia": "Tắm vòi hoa sen"
+        },
+        {
+          "stt": 5,
+          "chu": "Get dressed",
+          "pronunciation": "ɡet drest",
+          "nghia": "Mặc quần áo"
+        },
+        {
+          "stt": 6,
+          "chu": "Have breakfast",
+          "pronunciation": "hæv ˈbrekfəst",
+          "nghia": "Ăn sáng"
+        },
+        {
+          "stt": 7,
+          "chu": "Go to work",
+          "pronunciation": "ɡəʊ tuː wɜːrk",
+          "nghia": "Đi làm"
+        },
+        {
+          "stt": 8,
+          "chu": "Go to school",
+          "pronunciation": "ɡəʊ tuː skuːl",
+          "nghia": "Đi học"
+        },
+        {
+          "stt": 9,
+          "chu": "Start work",
+          "pronunciation": "stɑːrt wɜːrk",
+          "nghia": "Bắt đầu làm việc"
+        },
+        {
+          "stt": 10,
+          "chu": "Have lunch",
+          "pronunciation": "hæv lʌntʃ",
+          "nghia": "Ăn trưa"
+        },
+        {
+          "stt": 11,
+          "chu": "Finish work",
+          "pronunciation": "ˈfɪnɪʃ wɜːrk",
+          "nghia": "Kết thúc làm việc"
+        },
+        {
+          "stt": 12,
+          "chu": "Go home",
+          "pronunciation": "ɡəʊ həʊm",
+          "nghia": "Về nhà"
+        },
+        {
+          "stt": 13,
+          "chu": "Have dinner",
+          "pronunciation": "hæv ˈdɪnər",
+          "nghia": "Ăn tối"
+        },
+        {
+          "stt": 14,
+          "chu": "Watch TV",
+          "pronunciation": "wɒtʃ ˌtiːˈviː",
+          "nghia": "Xem TV"
+        },
+        {
+          "stt": 15,
+          "chu": "Go to bed",
+          "pronunciation": "ɡəʊ tuː bed",
+          "nghia": "Đi ngủ"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👩 Emma",
+          "english": "What time do you usually wake up?",
+          "pronunciation": "wɒt taɪm duː juː ˈjuːʒuəli weɪk ʌp?",
+          "vietnamese": "Bạn thường thức dậy lúc mấy giờ?"
+        },
+        {
+          "speaker": "👨 Alex",
+          "english": "I wake up at 6:30. Then I brush my teeth and take a shower.",
+          "pronunciation": "aɪ weɪk ʌp æt sɪks θɜːrti. ðen aɪ brʌʃ maɪ tiːθ ənd teɪk ə ˈʃaʊər.",
+          "vietnamese": "Tôi thức dậy lúc 6:30. Sau đó tôi đánh răng và tắm."
+        },
+        {
+          "speaker": "👩 Emma",
+          "english": "When do you have breakfast?",
+          "pronunciation": "wen duː juː hæv ˈbrekfəst?",
+          "vietnamese": "Khi nào bạn ăn sáng?"
+        },
+        {
+          "speaker": "👨 Alex",
+          "english": "At 7:15. I usually have bread and milk. Then I go to work at 8:00.",
+          "pronunciation": "æt ˈsevən fɪfˈtiːn. aɪ ˈjuːʒuəli hæv bred ənd mɪlk. ðen aɪ ɡəʊ tuː wɜːrk æt eɪt.",
+          "vietnamese": "Lúc 7:15. Tôi thường ăn bánh mì và sữa. Sau đó tôi đi làm lúc 8:00."
+        },
+        {
+          "speaker": "👩 Emma",
+          "english": "What time do you finish work?",
+          "pronunciation": "wɒt taɪm duː juː ˈfɪnɪʃ wɜːrk?",
+          "vietnamese": "Mấy giờ bạn kết thúc công việc?"
+        },
+        {
+          "speaker": "👨 Alex",
+          "english": "At 5:30. I go home, have dinner, and relax.",
+          "pronunciation": "æt faɪv θɜːrti. aɪ ɡəʊ həʊm, hæv ˈdɪnər, ənd rɪˈlæks.",
+          "vietnamese": "Lúc 5:30. Tôi về nhà, ăn tối và thư giãn."
+        }
+      ],
+      "grammar": "<h2>Grammar: Simple Present Tense for Routines</h2>\n<h3>1. Form</h3>\n<p><strong>I/You/We/They</strong> + Verb (nguyên thể).<br><strong>He/She/It</strong> + Verb(s/es).</p>\n<ul>\n  <li>I work every day.</li>\n  <li>She works in an office.</li>\n</ul>\n<h3>2. Adverbs of Frequency</h3>\n<p>always, usually, often, sometimes, rarely, never.<br>Vị trí: trước động từ thường, sau 'to be'.</p>\n<ul>\n  <li>I always have breakfast.</li>\n  <li>He is never late.</li>\n</ul>\n<h3>3. Questions with 'What time' & 'When'</h3>\n<ul>\n  <li>What time do you get up?</li>\n  <li>When do you go to bed?</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "I get up at seven o'clock.",
+          "pronunciation": "aɪ ɡet ʌp æt ˈsevən əˈklɒk",
+          "nghia": "Tôi thức dậy lúc bảy giờ."
+        },
+        {
+          "stt": 2,
+          "chu": "She goes to work at eight thirty.",
+          "pronunciation": "ʃiː ɡəʊz tuː wɜːrk æt eɪt ˈθɜːrti",
+          "nghia": "Cô ấy đi làm lúc tám giờ ba mươi."
+        },
+        {
+          "stt": 3,
+          "chu": "We have lunch at noon.",
+          "pronunciation": "wiː hæv lʌntʃ æt nuːn",
+          "nghia": "Chúng tôi ăn trưa lúc trưa."
+        },
+        {
+          "stt": 4,
+          "chu": "They watch TV in the evening.",
+          "pronunciation": "ðeɪ wɒtʃ ˌtiːˈviː ɪn ði ˈiːvnɪŋ",
+          "nghia": "Họ xem TV vào buổi tối."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "I get up at seven",
+          "explanation": "Diễn tả thời gian thức dậy."
+        },
+        {
+          "correct": "I have breakfast at 7:30",
+          "explanation": "Diễn tả thời gian ăn sáng."
+        },
+        {
+          "correct": "She goes to work at 8:00",
+          "explanation": "Diễn tả thời gian đi làm (ngôi thứ 3 số ít)."
+        },
+        {
+          "correct": "I usually watch TV in the evening",
+          "explanation": "Diễn tả hoạt động thường làm với trạng từ tần suất."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Lesson 5: Jobs & Occupations",
+      "content": "Learn vocabulary for common jobs, workplaces, and talking about your profession.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Job",
+          "pronunciation": "dʒɒb",
+          "nghia": "Công việc"
+        },
+        {
+          "stt": 2,
+          "chu": "Work",
+          "pronunciation": "wɜːrk",
+          "nghia": "Làm việc"
+        },
+        {
+          "stt": 3,
+          "chu": "Doctor",
+          "pronunciation": "ˈdɒktər",
+          "nghia": "Bác sĩ"
+        },
+        {
+          "stt": 4,
+          "chu": "Teacher",
+          "pronunciation": "ˈtiːtʃər",
+          "nghia": "Giáo viên"
+        },
+        {
+          "stt": 5,
+          "chu": "Engineer",
+          "pronunciation": "ˌenʤɪˈnɪər",
+          "nghia": "Kỹ sư"
+        },
+        { "stt": 6, "chu": "Nurse", "pronunciation": "nɜːrs", "nghia": "Y tá" },
+        {
+          "stt": 7,
+          "chu": "Student",
+          "pronunciation": "ˈstjuːdənt",
+          "nghia": "Học sinh/Sinh viên"
+        },
+        {
+          "stt": 8,
+          "chu": "Manager",
+          "pronunciation": "ˈmænɪdʒər",
+          "nghia": "Quản lý"
+        },
+        {
+          "stt": 9,
+          "chu": "Secretary",
+          "pronunciation": "ˈsekrətri",
+          "nghia": "Thư ký"
+        },
+        {
+          "stt": 10,
+          "chu": "Driver",
+          "pronunciation": "ˈdraɪvər",
+          "nghia": "Tài xế"
+        },
+        {
+          "stt": 11,
+          "chu": "Chef",
+          "pronunciation": "ʃef",
+          "nghia": "Đầu bếp"
+        },
+        {
+          "stt": 12,
+          "chu": "Farmer",
+          "pronunciation": "ˈfɑːrmər",
+          "nghia": "Nông dân"
+        },
+        {
+          "stt": 13,
+          "chu": "Office",
+          "pronunciation": "ˈɒfɪs",
+          "nghia": "Văn phòng"
+        },
+        {
+          "stt": 14,
+          "chu": "Hospital",
+          "pronunciation": "ˈhɒspɪtl",
+          "nghia": "Bệnh viện"
+        },
+        {
+          "stt": 15,
+          "chu": "School",
+          "pronunciation": "skuːl",
+          "nghia": "Trường học"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👨 Mark",
+          "english": "What do you do for a living?",
+          "pronunciation": "wɒt duː juː duː fɔːr ə ˈlɪvɪŋ?",
+          "vietnamese": "Bạn làm nghề gì để kiếm sống?"
+        },
+        {
+          "speaker": "👩 Sophia",
+          "english": "I'm a teacher. I teach English at a high school.",
+          "pronunciation": "aɪm ə ˈtiːtʃər. aɪ tiːtʃ ˈɪŋɡlɪʃ æt ə haɪ skuːl.",
+          "vietnamese": "Tôi là giáo viên. Tôi dạy tiếng Anh ở một trường trung học."
+        },
+        {
+          "speaker": "👨 Mark",
+          "english": "That's interesting. Where do you work?",
+          "pronunciation": "ðæts ˈɪntrəstɪŋ. weər duː juː wɜːrk?",
+          "vietnamese": "Thật thú vị. Bạn làm việc ở đâu?"
+        },
+        {
+          "speaker": "👩 Sophia",
+          "english": "I work at Hanoi High School. What about you?",
+          "pronunciation": "aɪ wɜːrk æt həˈnɔɪ haɪ skuːl. wɒt əˈbaʊt juː?",
+          "vietnamese": "Tôi làm việc tại Trường Trung học Hà Nội. Còn bạn thì sao?"
+        },
+        {
+          "speaker": "👨 Mark",
+          "english": "I'm an engineer. I work for a construction company.",
+          "pronunciation": "aɪm ən ˌenʤɪˈnɪər. aɪ wɜːrk fɔːr ə kənˈstrʌkʃən ˈkʌmpəni.",
+          "vietnamese": "Tôi là kỹ sư. Tôi làm việc cho một công ty xây dựng."
+        },
+        {
+          "speaker": "👩 Sophia",
+          "english": "Do you like your job?",
+          "pronunciation": "duː juː laɪk jɔːr dʒɒb?",
+          "vietnamese": "Bạn có thích công việc của mình không?"
+        },
+        {
+          "speaker": "👨 Mark",
+          "english": "Yes, I do. It's challenging but interesting.",
+          "pronunciation": "jes, aɪ duː. ɪts ˈtʃælɪndʒɪŋ bʌt ˈɪntrəstɪŋ.",
+          "vietnamese": "Có, tôi thích. Nó đầy thử thách nhưng thú vị."
+        }
+      ],
+      "grammar": "<h2>Grammar: Talking about Jobs</h2>\n<h3>1. Asking about Jobs</h3>\n<ul>\n  <li>What do you do?</li>\n  <li>What is your job?</li>\n  <li>What do you do for a living?</li>\n</ul>\n<h3>2. Saying Your Job</h3>\n<ul>\n  <li>I am a/an + job.</li>\n  <li>I work as a/an + job.</li>\n  <li>I work in + field/place.</li>\n</ul>\n<h3>3. Articles 'a' vs 'an'</h3>\n<p>'a' đứng trước phụ âm (a teacher, a doctor).<br>'an' đứng trước nguyên âm (an engineer, an accountant).</p>\n<h3>4. Questions about Work</h3>\n<ul>\n  <li>Where do you work?</li>\n  <li>Do you like your job?</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "I am a doctor.",
+          "pronunciation": "aɪ æm ə ˈdɒktər",
+          "nghia": "Tôi là bác sĩ."
+        },
+        {
+          "stt": 2,
+          "chu": "She works in an office.",
+          "pronunciation": "ʃiː wɜːrks ɪn ən ˈɒfɪs",
+          "nghia": "Cô ấy làm việc trong văn phòng."
+        },
+        {
+          "stt": 3,
+          "chu": "He is a student.",
+          "pronunciation": "hiː ɪz ə ˈstjuːdənt",
+          "nghia": "Anh ấy là sinh viên."
+        },
+        {
+          "stt": 4,
+          "chu": "They work at a hospital.",
+          "pronunciation": "ðeɪ wɜːrk æt ə ˈhɒspɪtl",
+          "nghia": "Họ làm việc tại bệnh viện."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "I am a teacher",
+          "explanation": "Giới thiệu nghề nghiệp."
+        },
+        {
+          "correct": "She works as a nurse",
+          "explanation": "Nói về nghề nghiệp (ngôi thứ 3 số ít)."
+        },
+        { "correct": "What do you do ?", "explanation": "Hỏi về nghề nghiệp." },
+        {
+          "correct": "Where do you work ?",
+          "explanation": "Hỏi về nơi làm việc."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lesson 6: Food & Drinks",
+      "content": "Learn vocabulary for common foods, drinks, ordering at a restaurant, and talking about meals.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Food",
+          "pronunciation": "fuːd",
+          "nghia": "Thức ăn"
+        },
+        {
+          "stt": 2,
+          "chu": "Drink",
+          "pronunciation": "drɪŋk",
+          "nghia": "Đồ uống"
+        },
+        {
+          "stt": 3,
+          "chu": "Water",
+          "pronunciation": "ˈwɔːtər",
+          "nghia": "Nước"
+        },
+        {
+          "stt": 4,
+          "chu": "Coffee",
+          "pronunciation": "ˈkɒfi",
+          "nghia": "Cà phê"
+        },
+        { "stt": 5, "chu": "Tea", "pronunciation": "tiː", "nghia": "Trà" },
+        { "stt": 6, "chu": "Rice", "pronunciation": "raɪs", "nghia": "Cơm" },
+        {
+          "stt": 7,
+          "chu": "Bread",
+          "pronunciation": "bred",
+          "nghia": "Bánh mì"
+        },
+        {
+          "stt": 8,
+          "chu": "Chicken",
+          "pronunciation": "ˈtʃɪkɪn",
+          "nghia": "Thịt gà"
+        },
+        {
+          "stt": 9,
+          "chu": "Beef",
+          "pronunciation": "biːf",
+          "nghia": "Thịt bò"
+        },
+        { "stt": 10, "chu": "Fish", "pronunciation": "fɪʃ", "nghia": "Cá" },
+        {
+          "stt": 11,
+          "chu": "Vegetables",
+          "pronunciation": "ˈveʤtəblz",
+          "nghia": "Rau củ"
+        },
+        {
+          "stt": 12,
+          "chu": "Fruit",
+          "pronunciation": "fruːt",
+          "nghia": "Trái cây"
+        },
+        {
+          "stt": 13,
+          "chu": "Breakfast",
+          "pronunciation": "ˈbrekfəst",
+          "nghia": "Bữa sáng"
+        },
+        {
+          "stt": 14,
+          "chu": "Lunch",
+          "pronunciation": "lʌntʃ",
+          "nghia": "Bữa trưa"
+        },
+        {
+          "stt": 15,
+          "chu": "Dinner",
+          "pronunciation": "ˈdɪnər",
+          "nghia": "Bữa tối"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👨 Waiter",
+          "english": "Good evening. Are you ready to order?",
+          "pronunciation": "ɡʊd ˈiːvnɪŋ. ɑːr juː ˈredi tuː ˈɔːdər?",
+          "vietnamese": "Chào buổi tối. Ông/bà đã sẵn sàng gọi món chưa?"
+        },
+        {
+          "speaker": "👩 Customer",
+          "english": "Yes, I'd like the chicken soup and a salad, please.",
+          "pronunciation": "jes, aɪd laɪk ðə ˈtʃɪkɪn suːp ənd ə ˈsæləd, pliːz.",
+          "vietnamese": "Vâng, tôi muốn súp gà và một món salad, làm ơn."
+        },
+        {
+          "speaker": "👨 Waiter",
+          "english": "What would you like to drink?",
+          "pronunciation": "wɒt wʊd juː laɪk tuː drɪŋk?",
+          "vietnamese": "Ông/bà muốn uống gì?"
+        },
+        {
+          "speaker": "👩 Customer",
+          "english": "Just water, please. And for the main course, I'll have the grilled fish.",
+          "pronunciation": "dʒʌst ˈwɔːtər, pliːz. ænd fɔːr ðə meɪn kɔːrs, aɪl hæv ðə ɡrɪld fɪʃ.",
+          "vietnamese": "Chỉ nước lọc thôi, làm ơn. Và cho món chính, tôi sẽ ăn cá nướng."
+        },
+        {
+          "speaker": "👨 Waiter",
+          "english": "Excellent choice. Would you like anything for dessert?",
+          "pronunciation": "ˈeksələnt tʃɔɪs. wʊd juː laɪk ˈeniθɪŋ fɔːr dɪˈzɜːrt?",
+          "vietnamese": "Lựa chọn tuyệt vời. Ông/bà có muốn dùng gì cho món tráng miệng không?"
+        },
+        {
+          "speaker": "👩 Customer",
+          "english": "Maybe later. Thank you.",
+          "pronunciation": "ˈmeɪbi ˈleɪtər. θæŋk juː.",
+          "vietnamese": "Có lẽ để sau. Cảm ơn."
+        }
+      ],
+      "grammar": "<h2>Grammar: Countable & Uncountable Nouns</h2>\n<h3>1. Countable Nouns</h3>\n<p>Có thể đếm được (apple/apples, book/books). Dùng 'a/an' hoặc số nhiều.</p>\n<ul>\n  <li>I'd like an apple.</li>\n  <li>I'd like two apples.</li>\n</ul>\n<h3>2. Uncountable Nouns</h3>\n<p>Không đếm được (water, rice, bread). Không dùng 'a/an', không số nhiều.</p>\n<ul>\n  <li>I'd like some water. (KHÔNG: a water)</li>\n  <li>I'd like some rice.</li>\n</ul>\n<h3>3. 'Would like' for Polite Requests</h3>\n<p>Dùng 'would like' để yêu cầu lịch sự hơn 'want'.</p>\n<ul>\n  <li>I would like a coffee. = I'd like a coffee.</li>\n  <li>What would you like?</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "I'd like a cup of coffee.",
+          "pronunciation": "aɪd laɪk ə kʌp ɒv ˈkɒfi",
+          "nghia": "Tôi muốn một tách cà phê."
+        },
+        {
+          "stt": 2,
+          "chu": "She wants some water.",
+          "pronunciation": "ʃiː wɒnts sʌm ˈwɔːtər",
+          "nghia": "Cô ấy muốn một ít nước."
+        },
+        {
+          "stt": 3,
+          "chu": "We are hungry.",
+          "pronunciation": "wiː ɑːr ˈhʌŋɡri",
+          "nghia": "Chúng tôi đói."
+        },
+        {
+          "stt": 4,
+          "chu": "They are thirsty.",
+          "pronunciation": "ðeɪ ɑːr ˈθɜːrsti",
+          "nghia": "Họ khát."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "I'd like a coffee",
+          "explanation": "Yêu cầu đồ uống lịch sự."
+        },
+        {
+          "correct": "I want some water",
+          "explanation": "Yêu cầu đồ uống (uncountable noun)."
+        },
+        { "correct": "We are hungry", "explanation": "Diễn tả cảm giác đói." },
+        {
+          "correct": "What would you like for lunch ?",
+          "explanation": "Hỏi muốn ăn gì cho bữa trưa."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Lesson 7: Hobbies & Free Time",
+      "content": "Learn to talk about your hobbies, interests, and what you like to do in your free time.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Hobby",
+          "pronunciation": "ˈhɒbi",
+          "nghia": "Sở thích"
+        },
+        {
+          "stt": 2,
+          "chu": "Interest",
+          "pronunciation": "ˈɪntrəst",
+          "nghia": "Sự quan tâm"
+        },
+        { "stt": 3, "chu": "Read", "pronunciation": "riːd", "nghia": "Đọc" },
+        { "stt": 4, "chu": "Book", "pronunciation": "bʊk", "nghia": "Sách" },
+        {
+          "stt": 5,
+          "chu": "Music",
+          "pronunciation": "ˈmjuːzɪk",
+          "nghia": "Âm nhạc"
+        },
+        {
+          "stt": 6,
+          "chu": "Movie",
+          "pronunciation": "ˈmuːvi",
+          "nghia": "Phim"
+        },
+        {
+          "stt": 7,
+          "chu": "Sport",
+          "pronunciation": "spɔːrt",
+          "nghia": "Thể thao"
+        },
+        {
+          "stt": 8,
+          "chu": "Game",
+          "pronunciation": "ɡeɪm",
+          "nghia": "Trò chơi"
+        },
+        { "stt": 9, "chu": "Swim", "pronunciation": "swɪm", "nghia": "Bơi" },
+        { "stt": 10, "chu": "Run", "pronunciation": "rʌn", "nghia": "Chạy" },
+        { "stt": 11, "chu": "Cook", "pronunciation": "kʊk", "nghia": "Nấu ăn" },
+        {
+          "stt": 12,
+          "chu": "Travel",
+          "pronunciation": "ˈtrævl",
+          "nghia": "Du lịch"
+        },
+        {
+          "stt": 13,
+          "chu": "Photography",
+          "pronunciation": "fəˈtɒɡrəfi",
+          "nghia": "Nhiếp ảnh"
+        },
+        { "stt": 14, "chu": "Paint", "pronunciation": "peɪnt", "nghia": "Vẽ" },
+        { "stt": 15, "chu": "Dance", "pronunciation": "dɑːns", "nghia": "Nhảy" }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👨 Peter",
+          "english": "What do you like to do in your free time?",
+          "pronunciation": "wɒt duː juː laɪk tuː duː ɪn jɔːr friː taɪm?",
+          "vietnamese": "Bạn thích làm gì trong thời gian rảnh?"
+        },
+        {
+          "speaker": "👩 Maria",
+          "english": "I enjoy reading books and listening to music. How about you?",
+          "pronunciation": "aɪ ɪnˈdʒɔɪ ˈriːdɪŋ bʊks ənd ˈlɪsənɪŋ tuː ˈmjuːzɪk. haʊ əˈbaʊt juː?",
+          "vietnamese": "Tôi thích đọc sách và nghe nhạc. Còn bạn thì sao?"
+        },
+        {
+          "speaker": "👨 Peter",
+          "english": "I love playing sports, especially soccer. I also like watching movies.",
+          "pronunciation": "aɪ lʌv ˈpleɪɪŋ spɔːrts, ɪˈspeʃəli ˈsɒkər. aɪ ˈɔːlsəʊ laɪk ˈwɒtʃɪŋ ˈmuːviz.",
+          "vietnamese": "Tôi thích chơi thể thao, đặc biệt là bóng đá. Tôi cũng thích xem phim."
+        },
+        {
+          "speaker": "👩 Maria",
+          "english": "That's great. Do you play soccer every week?",
+          "pronunciation": "ðæts ɡreɪt. duː juː pleɪ ˈsɒkər ˈevri wiːk?",
+          "vietnamese": "Thật tuyệt. Bạn có chơi bóng đá hàng tuần không?"
+        },
+        {
+          "speaker": "👨 Peter",
+          "english": "Yes, I play with friends every Saturday. What kind of books do you like?",
+          "pronunciation": "jes, aɪ pleɪ wɪð frendz ˈevri ˈsætədeɪ. wɒt kaɪnd ɒv bʊks duː juː laɪk?",
+          "vietnamese": "Có, tôi chơi với bạn bè vào mỗi thứ Bảy. Bạn thích loại sách nào?"
+        },
+        {
+          "speaker": "👩 Maria",
+          "english": "I like novels and history books. Maybe we can go to the cinema sometime.",
+          "pronunciation": "aɪ laɪk ˈnɒvlz ənd ˈhɪstri bʊks. ˈmeɪbi wiː kæn ɡəʊ tuː ðə ˈsɪnəmə ˈsʌmtaɪm.",
+          "vietnamese": "Tôi thích tiểu thuyết và sách lịch sử. Có lẽ chúng ta có thể đi xem phim vào lúc nào đó."
+        },
+        {
+          "speaker": "👨 Peter",
+          "english": "That sounds good! Let's do that next weekend.",
+          "pronunciation": "ðæt saʊndz ɡʊd! lets duː ðæt nekst ˈwiːkend.",
+          "vietnamese": "Nghe hay đấy! Hãy làm điều đó vào cuối tuần tới nhé."
+        }
+      ],
+      "grammar": "<h2>Grammar: Likes & Dislikes</h2>\n<h3>1. Expressing Likes</h3>\n<ul>\n  <li>I like + noun/gerund (I like music / I like swimming).</li>\n  <li>I love + noun/gerund (mạnh hơn 'like').</li>\n  <li>I enjoy + noun/gerund.</li>\n</ul>\n<h3>2. Expressing Dislikes</h3>\n<ul>\n  <li>I don't like + noun/gerund.</li>\n  <li>I hate + noun/gerund (mạnh hơn 'don't like').</li>\n</ul>\n<h3>3. Asking about Preferences</h3>\n<ul>\n  <li>What do you like to do?</li>\n  <li>What are your hobbies?</li>\n  <li>Do you like + noun/gerund?</li>\n</ul>\n<h3>4. Gerunds (V-ing) as Nouns</h3>\n<p>Khi động từ đóng vai trò chủ ngữ/tân ngữ, thêm -ing.</p>\n<ul>\n  <li>Swimming is fun. (Bơi lội thì vui.)</li>\n  <li>I like reading. (Tôi thích đọc sách.)</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "I like playing tennis.",
+          "pronunciation": "aɪ laɪk ˈpleɪɪŋ ˈtenɪs",
+          "nghia": "Tôi thích chơi quần vợt."
+        },
+        {
+          "stt": 2,
+          "chu": "She loves reading books.",
+          "pronunciation": "ʃiː lʌvz ˈriːdɪŋ bʊks",
+          "nghia": "Cô ấy yêu thích đọc sách."
+        },
+        {
+          "stt": 3,
+          "chu": "They enjoy watching movies.",
+          "pronunciation": "ðeɪ ɪnˈdʒɔɪ ˈwɒtʃɪŋ ˈmuːviz",
+          "nghia": "Họ thích xem phim."
+        },
+        {
+          "stt": 4,
+          "chu": "We don't like cooking.",
+          "pronunciation": "wiː dəʊnt laɪk ˈkʊkɪŋ",
+          "nghia": "Chúng tôi không thích nấu ăn."
+        }
+      ],
+      "sapxepcau": [
+        {
+          "correct": "I like listening to music",
+          "explanation": "Diễn tả sở thích với gerund."
+        },
+        {
+          "correct": "He loves playing soccer",
+          "explanation": "Diễn tả sở thích (ngôi thứ 3 số ít)."
+        },
+        {
+          "correct": "Do you like reading ?",
+          "explanation": "Hỏi về sở thích."
+        },
+        {
+          "correct": "I don't like watching TV",
+          "explanation": "Diễn tả không thích."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Lesson 8: Weather & Seasons",
+      "content": "Learn vocabulary for describing weather conditions, seasons, and talking about climate.",
+      "NewWord": [
+        {
+          "stt": 1,
+          "chu": "Weather",
+          "pronunciation": "ˈweðər",
+          "nghia": "Thời tiết"
+        },
+        {
+          "stt": 2,
+          "chu": "Season",
+          "pronunciation": "ˈsiːzn",
+          "nghia": "Mùa"
+        },
+        {
+          "stt": 3,
+          "chu": "Sunny",
+          "pronunciation": "ˈsʌni",
+          "nghia": "Có nắng"
+        },
+        {
+          "stt": 4,
+          "chu": "Rainy",
+          "pronunciation": "ˈreɪni",
+          "nghia": "Có mưa"
+        },
+        {
+          "stt": 5,
+          "chu": "Cloudy",
+          "pronunciation": "ˈklaʊdi",
+          "nghia": "Có mây"
+        },
+        {
+          "stt": 6,
+          "chu": "Windy",
+          "pronunciation": "ˈwɪndi",
+          "nghia": "Có gió"
+        },
+        {
+          "stt": 7,
+          "chu": "Snowy",
+          "pronunciation": "ˈsnəʊi",
+          "nghia": "Có tuyết"
+        },
+        { "stt": 8, "chu": "Hot", "pronunciation": "hɒt", "nghia": "Nóng" },
+        { "stt": 9, "chu": "Cold", "pronunciation": "kəʊld", "nghia": "Lạnh" },
+        {
+          "stt": 10,
+          "chu": "Warm",
+          "pronunciation": "wɔːrm",
+          "nghia": "Ấm áp"
+        },
+        {
+          "stt": 11,
+          "chu": "Cool",
+          "pronunciation": "kuːl",
+          "nghia": "Mát mẻ"
+        },
+        {
+          "stt": 12,
+          "chu": "Spring",
+          "pronunciation": "sprɪŋ",
+          "nghia": "Mùa xuân"
+        },
+        {
+          "stt": 13,
+          "chu": "Summer",
+          "pronunciation": "ˈsʌmər",
+          "nghia": "Mùa hè"
+        },
+        {
+          "stt": 14,
+          "chu": "Autumn / Fall",
+          "pronunciation": "ˈɔːtəm / fɔːl",
+          "nghia": "Mùa thu"
+        },
+        {
+          "stt": 15,
+          "chu": "Winter",
+          "pronunciation": "ˈwɪntər",
+          "nghia": "Mùa đông"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "👩 Anna",
+          "english": "What's the weather like today?",
+          "pronunciation": "wɒts ðə ˈweðər laɪk təˈdeɪ?",
+          "vietnamese": "Thời tiết hôm nay thế nào?"
+        },
+        {
+          "speaker": "👨 Ben",
+          "english": "It's sunny and warm. A beautiful day!",
+          "pronunciation": "ɪts ˈsʌni ənd wɔːrm. ə ˈbjuːtɪfəl deɪ!",
+          "vietnamese": "Trời nắng và ấm áp. Một ngày đẹp trời!"
+        },
+        {
+          "speaker": "👩 Anna",
+          "english": "That's nice. What's your favorite season?",
+          "pronunciation": "ðæts naɪs. wɒts jɔːr ˈfeɪvərɪt ˈsiːzn?",
+          "vietnamese": "Tuyệt quá. Mùa yêu thích của bạn là gì?"
+        },
+        {
+          "speaker": "👨 Ben",
+          "english": "I like spring. The weather is perfect - not too hot and not too cold.",
+          "pronunciation": "aɪ laɪk sprɪŋ. ðə ˈweðər ɪz ˈpɜːrfɪkt - nɒt tuː hɒt ənd nɒt tuː kəʊld.",
+          "vietnamese": "Tôi thích mùa xuân. Thời tiết thật hoàn hảo - không quá nóng và không quá lạnh."
+        },
+        {
+          "speaker": "👩 Anna",
+          "english": "I prefer autumn. I love the cool weather and the colorful leaves.",
+          "pronunciation": "aɪ prɪˈfɜːr ˈɔːtəm. aɪ lʌv ðə kuːl ˈweðər ənd ðə ˈkʌləfəl liːvz.",
+          "vietnamese": "Tôi thích mùa thu hơn. Tôi yêu thời tiết mát mẻ và những chiếc lá đầy màu sắc."
+        },
+        {
+          "speaker": "👨 Ben",
+          "english": "What's the weather like in your country now?",
+          "pronunciation": "wɒts ðə ˈweðər laɪk ɪn jɔːr ˈkʌntri naʊ?",
+          "vietnamese": "Thời tiết ở đất nước của bạn bây giờ thế nào?"
+        },
+        {
+          "speaker": "👩 Anna",
+          "english": "It's winter there, so it's probably cold and snowy.",
+          "pronunciation": "ɪts ˈwɪntər ðeər, səʊ ɪts ˈprɒbəbli kəʊld ənd ˈsnəʊi.",
+          "vietnamese": "Ở đó đang là mùa đông, nên có lẽ là lạnh và có tuyết."
+        }
+      ],
+      "grammar": "<h2>Grammar: Describing Weather</h2>\n<h3>1. Basic Weather Patterns</h3>\n<p><strong>It is + adjective:</strong> It is sunny. It is cold.<br><strong>It is + verb-ing:</strong> It is raining. It is snowing.</p>\n<h3>2. Questions about Weather</h3>\n<ul>\n  <li>What's the weather like?</li>\n  <li>How's the weather?</li>\n</ul>\n<h3>3. Comparatives</h3>\n<p>Dùng để so sánh hơn.</p>\n<ul>\n  <li>Adjective + -er: hot → hotter, cold → colder.</li>\n  <li>More + long adjective: more beautiful.</li>\n  <li>Spring is warmer than winter.</li>\n</ul>\n<h3>4. Expressing Preferences</h3>\n<ul>\n  <li>I like + noun.</li>\n  <li>I prefer + noun.</li>\n  <li>My favorite + noun + is...</li>\n</ul>",
+      "listening": [
+        {
+          "stt": 1,
+          "chu": "It is sunny today.",
+          "pronunciation": "ɪt ɪz ˈsʌni təˈdeɪ",
+          "nghia": "Hôm nay trời nắng."
+        },
+        {
+          "stt": 2,
+          "chu": "The weather is cold in winter.",
+          "pronunciation": "ðə ˈweðər ɪz kəʊld ɪn ˈwɪntər",
+          "nghia": "Thời tiết lạnh vào mùa đông."
+        },
+        {
+          "stt": 3,
+          "chu": "I like summer because it is hot.",
+          "pronunciation": "aɪ laɪk ˈsʌmər bɪˈkɒz ɪt ɪz hɒt",
+          "nghia": "Tôi thích mùa hè vì trời nóng."
+        },
+        {
+          "stt": 4,
+          "chu": "It is raining now.",
+          "pronunciation": "ɪt ɪz ˈreɪnɪŋ naʊ",
+          "nghia": "Bây giờ trời đang mưa."
+        }
+      ],
+      "sapxepcau": [
+        { "correct": "It is sunny today", "explanation": "Miêu tả thời tiết." },
+        {
+          "correct": "The weather is cold",
+          "explanation": "Miêu tả thời tiết (dùng 'the weather')."
+        },
+        {
+          "correct": "I like summer",
+          "explanation": "Diễn tả sở thích về mùa."
+        },
+        { "correct": "It is raining", "explanation": "Diễn tả trời đang mưa." }
+      ]
+    }
+  ]
+}
